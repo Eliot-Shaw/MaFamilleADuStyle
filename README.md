@@ -1,7 +1,7 @@
 # MaFamilleADuStyle
 Bienvenue aux nouveaux de la fillotterie, ici un petit cadeau pour les curieux
 
-La dernière de ma description phrase sert à décrypter le fichier.
+La dernière ligne de ma description phrase sert à décrypter le fichier.
 
 Voici la procédure :
 - Télécharges le fichier parrain.enc
